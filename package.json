@@ -1,0 +1,31 @@
+{
+  "name": "wsone-uem-api",
+  "version": "1.0.0",
+  "description": "Workspace One UEM API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaaqoub/node-wsone-uem-api.git"
+  },
+  "keywords": [
+    "Workspace ONE",
+    "api",
+    "UEM",
+    "VMware",
+    "Airwatch",
+    "EMM",
+    "MDM",
+    "MAM",
+    "MCM",
+    "MEM"
+  ],
+  "author": "Yaaqoub Semlali <semlali.yaaqoub@gmail.com> (https://www.yaaqoub.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yaaqoub/node-wsone-uem-api/issues"
+  },
+  "homepage": "https://github.com/Yaaqoub/node-wsone-uem-api#readme"
+}
